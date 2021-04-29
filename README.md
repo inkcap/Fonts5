@@ -10,6 +10,14 @@ This project is just CSS and icons. Practically speaking, CSS and icons do not h
 <link href="assets/Fonts5/css/solid.min.css" rel="stylesheet" type="text/css"/>
 ```
 
+# SVG vs WebFonts
+For SVG, use svg sprites. This requires a syntax change from the traditional <i> usage.
+```
+<a href="https://facebook.com/fontawesome">
+   <svg><use xlink:href="fa-brands.svg#facebook"></use></svg>
+</a>
+```
+
 ## License
 
 Fonts5 Free is free, open source, and GPL friendly. You can use it for
