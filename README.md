@@ -1,4 +1,7 @@
-Icons and Fonts as Icons
+Icons and Fonts as Icons with no deployed JavaScript.
+
+JavaScript can sometimes introduce security vulnerabilities. 
+This project is just CSS and icons. Practically speaking, CSS and icons do not have security issues.
 
 
 ## Usage
