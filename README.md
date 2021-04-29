@@ -1,5 +1,12 @@
 Icons and Fonts as Icons
 
+
+## Usage
+
+<link href="assets/Fonts5/css/fonts5.min.css" rel="stylesheet" type="text/css"/>
+<link href="assets/Fonts5/css/solid.min.css" rel="stylesheet" type="text/css"/>
+
+
 ## License
 
 Fonts5 Free is free, open source, and GPL friendly. You can use it for
