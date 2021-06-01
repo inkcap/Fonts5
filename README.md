@@ -19,8 +19,9 @@ For SVG, use svg sprites. This requires a syntax change from the traditional <i>
 ```
 
 ## License
+This project is a fork of FontAwesome that removes the JavaScript and is just CSS and Fonts. 
 
-Fonts5 Free is free, open source, and GPL friendly. You can use it for
+FontAwesome / Fonts5 Free is free, open source, and GPL friendly. You can use it for
 commercial projects, open source projects, or really almost whatever you want.
 
 - Icons — CC BY 4.0 License
