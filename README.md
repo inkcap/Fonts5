@@ -17,6 +17,9 @@ For SVG, use svg sprites. This requires a syntax change from the traditional <i>
    <svg><use xlink:href="fa-brands.svg#facebook"></use></svg>
 </a>
 ```
+When using SVG with stacked icons, the default CSS doesn't always line up. Be prepared to make some css adjustemnts.
+If this is an issue, then use the traditional web fonts.
+  
 
 ## License
 This project is a fork of FontAwesome that removes the JavaScript and is just CSS, Fonts, and SVG's. 
