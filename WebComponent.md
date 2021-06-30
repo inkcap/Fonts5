@@ -4,7 +4,6 @@ This would not work for older browsers such as Internet Explorer.
 
 Please look at the svg-with-js.css file, this may help with your implementation.
 
-'''
 
     export class Fonts5 extends HTMLElement{
         constructor(){
@@ -15,14 +14,14 @@ Please look at the svg-with-js.css file, this may help with your implementation.
         }
     }
 
-'''
+
 
 Html Example usage
-'''
+
 
     <html>
       <body>
         <fonts5 class-list="large" name="pencil"/>
       </body>
 
-'''
+
