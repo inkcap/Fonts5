@@ -14,7 +14,7 @@ This project is just CSS and icons. Practically speaking, CSS and icons do not h
 For SVG, use svg sprites. This requires a syntax change from the traditional <i> usage.
 ```
 <a href="https://facebook.com/fontawesome">
-   <svg><use xlink:href="fa-brands.svg#facebook"></use></svg>
+   <svg><use xlink:href="/public/css/sprites.svg#pencil"></use></svg>
 </a>
 ```
 When using SVG with stacked icons, the default CSS doesn't always line up. Be prepared to make some css adjustemnts.
