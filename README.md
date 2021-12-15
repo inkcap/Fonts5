@@ -13,7 +13,7 @@ This project is just CSS and icons. Practically speaking, CSS and icons do not h
 # SVG vs WebFonts
 For SVG, use svg sprites. This requires a syntax change from the traditional <i> usage.
 ```
-<a href="https://facebook.com/fontawesome">
+<a href="./somepage.html">
    <svg><use xlink:href="/public/css/sprites.svg#pencil"></use></svg>
 </a>
 ```
