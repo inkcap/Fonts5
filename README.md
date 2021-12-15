@@ -17,10 +17,11 @@ For SVG, use svg sprites. This requires a syntax change from the traditional &lt
    <svg><use xlink:href="/public/css/sprites.svg#pencil"></use></svg>
 </a>
 ```
-When using SVG with stacked icons, the default CSS doesn't always line up. Be prepared to make some css adjustemnts.
+
+When using SVG with stacked icons, the default CSS doesn't always line up. Be prepared to make some css adjustments.
 If this is an issue, then use the traditional web fonts.
    
-If your application only uses a few fonts, I highly recomend hand crafting your own fonts5 sprites.svg file.
+If your application only uses a few fonts, I highly recommend hand crafting your own fonts5 sprites.svg file.
 Doing so will significantly decrease the download size.
 Look at the existing /sprites/solid.svg file for more information.
   
